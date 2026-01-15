@@ -80,6 +80,6 @@
     },
     "registeredAt": "2026-01-14T17:19:10.814Z",
     "registeredBy": "arn:aws:sts::141145919122:assumed-role/voclabs/user4384231=Stella_Ogboriefor",
-    "enableFaultInjection": false,
     "tags": []
+    
 }
